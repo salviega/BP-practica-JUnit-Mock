@@ -1,3 +1,3 @@
-# BP-Taller-PruebasUnitarias
+# BP-Práctica-JUnit y Mockito
 
-Buenas Prácticas: Taller - Pruebas Unitarias.
+Buenas Prácticas: Práctica - Pruebas Unitarias.
