@@ -1,3 +1,3 @@
-# BP-Práctica-JUnit y Mockito
+# BP-Práctica-JUnit + Mock
 
-Buenas Prácticas: Práctica - Pruebas Unitarias.
+Buenas Prácticas: Práctica - Junit + Mock
